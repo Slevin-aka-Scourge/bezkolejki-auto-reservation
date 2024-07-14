@@ -16,10 +16,6 @@ node run.js
 
 ### Usage
 
-```sh
-npm install
-```
-
 ```js
 const {start} = require("bezkolejki");
 start()
