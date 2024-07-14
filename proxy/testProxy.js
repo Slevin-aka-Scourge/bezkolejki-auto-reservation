@@ -3,6 +3,7 @@ const fs = require("fs-extra");
 const fetch = require("node-fetch");
 if(!fs.existsSync("./proxy/proxy.json")){
   fs.mkdirSync("./proxy")
+  fs.mkdirSync("./log")
   fs.copySync("./node_modules/bezkolejki/proxy/proxy.json","./proxy/proxy.json")
  }
 let arr_proxy = fs.readJSONSync("./proxy/proxy.json");
