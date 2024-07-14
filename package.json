@@ -1,0 +1,26 @@
+{
+  "name": "bezkolejki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bezkolejki"
+  ],
+  "author": "Scourge",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.47",
+    "bytenode": "^1.5.6",
+    "fs-extra": "^11.1.0",
+    "https-proxy-agent": "^7.0.2",
+    "imap-simple": "^5.1.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^19.7.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.103"
+  }
+}
