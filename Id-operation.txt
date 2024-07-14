@@ -1,0 +1,415 @@
+------------------LUW-PASZPORTY-------------------------
+|ID : 3075161| COMPANY: luw-paszporty| NAME : Przyjmowanie wniosków|
+|ID : 3075164| COMPANY: luw-paszporty| NAME : Odbiór paszportów|
+|ID : 3075165| COMPANY: luw-paszporty| NAME : Przyjmowanie wniosków – st. wieloosobowe|
+------------------LUWBB-------------------------
+|ID : 3074423| COMPANY: luwbb| NAME : Pobyt czasowy - wniosek|
+|ID : 3074422| COMPANY: luwbb| NAME : Pobyt czasowy - braki formalne|
+|ID : 3074421| COMPANY: luwbb| NAME : Pobyt czasowy - odbiór karty|
+|ID : 3074420| COMPANY: luwbb| NAME : Pobyt stały i rezydent - wniosek|
+|ID : 3074419| COMPANY: luwbb| NAME : Pobyt stały i rezydent - braki formalne|
+|ID : 3074418| COMPANY: luwbb| NAME : Pobyt stały i rezydent - odbiór karty|
+|ID : 3074417| COMPANY: luwbb| NAME : Obywatele Unii Europejskiej + Polski Dokument Podróży|
+------------------CUSKOSZALIN-------------------------
+|ID : 3061358| COMPANY: cuskoszalin| NAME : A-Dodatki Mieszkaniowe|
+|ID : 3061359| COMPANY: cuskoszalin| NAME : B-Świadczenia rodzinne|
+|ID : 3062120| COMPANY: cuskoszalin| NAME : B-Fundusz alimentacyjny|
+|ID : 3061360| COMPANY: cuskoszalin| NAME : C-Programy Osłonowe|
+|ID : 3061361| COMPANY: cuskoszalin| NAME : D-Karta Dużej Rodziny|
+|ID : 3061362| COMPANY: cuskoszalin| NAME : E-PFRON|
+|ID : 3061363| COMPANY: cuskoszalin| NAME : F-Pracownik Socjalny|
+|ID : 3062200| COMPANY: cuskoszalin| NAME : G-Refundacja Podatku VAT|
+|ID : 3063489| COMPANY: cuskoszalin| NAME : I-Stypendia|
+|ID : 3173000| COMPANY: cuskoszalin| NAME : J-Czyste Powietrze|
+------------------USCSUWALKI-------------------------
+|ID : 1529371| COMPANY: uscsuwalki| NAME : Rejestracja urodzenia|
+|ID : 1529372| COMPANY: uscsuwalki| NAME : Zawarcie małżeństwa|
+|ID : 1529373| COMPANY: uscsuwalki| NAME : Rejestracja zgonu|
+|ID : 1529374| COMPANY: uscsuwalki| NAME : Odpisy aktów|
+------------------SPLUBAN-------------------------
+|ID : 562543| COMPANY: spluban| NAME : Rejestracja pojazdu|
+|ID : 562544| COMPANY: spluban| NAME : Prawo jazdy|
+|ID : 3173027| COMPANY: spluban| NAME : Pozwolenia budowlane|
+|ID : 3173028| COMPANY: spluban| NAME : Zgłoszenia budowlane|
+|ID : 3173029| COMPANY: spluban| NAME : Pozostałe sprawy budowlane|
+------------------WSOKOMORNIKI-------------------------
+|ID : 3173162| COMPANY: wsokomorniki| NAME : Dowody osobiste|
+|ID : 3173163| COMPANY: wsokomorniki| NAME : Sprawy Meldunkowe|
+|ID : 3173164| COMPANY: wsokomorniki| NAME : Nadanie numeru PESEL|
+|ID : 3173165| COMPANY: wsokomorniki| NAME : Profil Zaufany|
+|ID : 3173166| COMPANY: wsokomorniki| NAME : Działalność Gospodarcza (CEIDG)|
+|ID : 3173167| COMPANY: wsokomorniki| NAME : Zgłoszenie zgonu|
+|ID : 3173168| COMPANY: wsokomorniki| NAME : Małżeństwo|
+|ID : 3173169| COMPANY: wsokomorniki| NAME : Uznanie Ojcostwa|
+|ID : 3173170| COMPANY: wsokomorniki| NAME : Zmiany w aktach stanu cywilnego|
+|ID : 3173171| COMPANY: wsokomorniki| NAME : Odpisy aktów stanu cywilnego i inne dokumenty|
+|ID : 3173172| COMPANY: wsokomorniki| NAME : Transkrypcja|
+------------------SPLUBLINIEC-------------------------
+|ID : 3063512| COMPANY: splubliniec| NAME : Rejestracja pojazdu z kraju, z zagranicy; Czasowe wycofanie z ruchu / Wyrejestrowanie - demontaż; Hak; Gaz; Vat|
+|ID : 3063520| COMPANY: splubliniec| NAME : Inne sprawy - Zgłoszenie nabycia / zbycia pojazdu i odbiór stałych dowodów rejestracyjnych|
+------------------SPBILGORAJ-------------------------
+|ID : 7044| COMPANY: spbilgoraj| NAME : Rejestracja Pojazdu|
+|ID : 7050| COMPANY: spbilgoraj| NAME : Profil kandydata na Kierowcę|
+|ID : 7053| COMPANY: spbilgoraj| NAME : Wymiana prawa jazdy|
+|ID : 7054| COMPANY: spbilgoraj| NAME : Zatrzymanie, cofnięcie i przywrócenie uprawnień|
+|ID : 7056| COMPANY: spbilgoraj| NAME : Odbiór stałego dowodu rejestracyjnego|
+------------------SPLECZYCA-------------------------
+|ID : 3062316| COMPANY: spleczyca| NAME : Rejestracja|
+|ID : 3062317| COMPANY: spleczyca| NAME : Odbiór dowodów rejestracyjnych i inne sprawy|
+|ID : 3062319| COMPANY: spleczyca| NAME : Prawa jazdy|
+|ID : 3062320| COMPANY: spleczyca| NAME : Firmy leasingowe - rejestracja pojazdu|
+|ID : 3062321| COMPANY: spleczyca| NAME : Firmy leasingowe - inne sprawy związane z rejestracją|
+------------------SPSWIEBODZIN-------------------------
+|ID : 3062298| COMPANY: spswiebodzin| NAME : Rejestracja pojazdu-wizyta|
+|ID : 3062301| COMPANY: spswiebodzin| NAME : Odbiór dowodów rejestracyjnych /wpis: hak/gaz/Vat|
+|ID : 3062305| COMPANY: spswiebodzin| NAME : Wtórnik: tablicy rej./dodatkowa tablica rej.– bagażnik, zaświadczenie o danych pojazdu|
+|ID : 3062303| COMPANY: spswiebodzin| NAME : Wymiana dowodu z powodu braku miejsca na wpis bad. tech.|
+|ID : 3062304| COMPANY: spswiebodzin| NAME : Zgłoszenie zbycia (sprzedaży)pojazdu, dopisanie/wykreślenie współwłaściciela pojazdu|
+|ID : 3062307| COMPANY: spswiebodzin| NAME : Wyrejestrowanie pojazdu z powodu: demontażu (złomowania), kradzieży, wywozu z kraju|
+|ID : 3062306| COMPANY: spswiebodzin| NAME : Profil PKK, wtórnik/wymiana prawa jazdy, wydanie prawa jazdy międzynarodowego, wpis kwalifikacji zawodowej, zezwolenia na pojazdy uprzywilejowane, OSK, instruktorzy|
+|ID : 3062308| COMPANY: spswiebodzin| NAME : Odbiór nowego dokumentu prawa jazdy, opłata za prawo jazdy po zdanym egzaminie punkty|
+|ID : 3172789| COMPANY: spswiebodzin| NAME : KKK (Karta Kwalifikacji Kierowcy) - dokument potwierdzający uprawnienie do kierowania zawodowo pojazdem kat C,CE,D,DE dla osób nie spełniających warunku zamieszkania na terenie Polski, którzy nie mogą wymienić prawa jazdy na polskie z wpisem kodu 95.|
+|ID : 3062309| COMPANY: spswiebodzin| NAME : Zakazy, cofnięcia uprawnień skierowania na badania lekarskie/psychologiczne/kurs reedukacyjny|
+|ID : 3062311| COMPANY: spswiebodzin| NAME : Licencje, zezwolenia, zaświadczenia|
+|ID : 3062310| COMPANY: spswiebodzin| NAME : Opiniowanie i zatwierdzanie projektów organizacji ruchu, wykorzystanie dróg w sposób szczególny|
+|ID : 3062302| COMPANY: spswiebodzin| NAME : Firmy z os. prawną dział. w zakresie obrotu pojazdami |
+|ID : 3191192| COMPANY: spswiebodzin| NAME : Wymiana prawa jazdy wydanego za granicą|
+|ID : 3193679| COMPANY: spswiebodzin| NAME : Brak / nieterminowe zgłoszenie zbycia / nabycia pojazdu|
+|ID : 3193680| COMPANY: spswiebodzin| NAME : Brak / nieterminowe zgłoszenie zarejestrowania sprowadzonego pojazdu|
+------------------SPPLONSK-------------------------
+|ID : 7086| COMPANY: spplonsk| NAME : Rejestracja pojazdu (I):  pojazd krajowy, z zagranicy, wymiana dowodu rejestracyjnego, wtórniki, trzecia tablica|
+|ID : 12001| COMPANY: spplonsk| NAME : Inne sprawy związane z rejestracją (I): odbiór/zwrot dowodu rejestracyjnego, wyrejestrowanie, zbycie, wycofanie/przywrócenie do ruchu, adnotacje|
+|ID : 11970| COMPANY: spplonsk| NAME : Kary (I)|
+|ID : 7087| COMPANY: spplonsk| NAME : Prawa jazdy (I)|
+------------------RCKIKKATOWICE-------------------------
+|ID : 7029| COMPANY: rckikkatowice| NAME : 1.ODDAWANIE KRWI|
+------------------MUW-------------------------
+|ID : 1529329| COMPANY: muw| NAME : Przyjmowanie wniosków paszportowych|
+------------------LUW-OLP-------------------------
+|ID : 3172873| COMPANY: luw-olp| NAME : Pobyt - Złożenie wniosku - pobyt czasowy (studenci, małżeństwa, inne okoliczności / pobyt stały (z wyłączeniem Karty Polaka)|
+|ID : 3172874| COMPANY: luw-olp| NAME : Pobyt - Złożenie wniosku - pobyt stały dla posiadacza Karty Polaka|
+|ID : 3172875| COMPANY: luw-olp| NAME : Pobyt - Złożenie wniosku - pobyt rezydenta długoterminowego UE|
+|ID : 3172890| COMPANY: luw-olp| NAME : SIERADZ - Pobyt i praca - Złożenie wniosku|
+|ID : 3172891| COMPANY: luw-olp| NAME : SKIERNIEWICE - Pobyt i praca - Złożenie wniosku|
+|ID : 3172892| COMPANY: luw-olp| NAME : PIOTRKÓW TRYBUNALSKI - Pobyt i praca - Złożenie wniosku|
+|ID : 3172876| COMPANY: luw-olp| NAME : Pobyt - Odbiór Karty Pobytu - pobyt czasowy (studenci, małżeństwa, inne okoliczności) / pobyt stały / pobyt rezydenta długoterminowego UE|
+|ID : 3172877| COMPANY: luw-olp| NAME : Pobyt - Wgląd w akta sprawy - pobyt czasowy (studenci, małżeństwa, inne okoliczności) / pobyt stały / pobyt rezydenta długoterminowego UW|
+|ID : 3172878| COMPANY: luw-olp| NAME : Pobyt i praca - Złożenie Wniosku|
+|ID : 3172880| COMPANY: luw-olp| NAME : Pobyt i praca - Wgląd w akta sprawy|
+|ID : 3193700| COMPANY: luw-olp| NAME : Wydanie Karty Polaka - złożenie wniosku wraz z rozmową|
+------------------LESZNOWOLA-------------------------
+|ID : 1522363| COMPANY: lesznowola| NAME : Rejestracja|
+|ID : 1522364| COMPANY: lesznowola| NAME : Odbiór dokumentów / Inne|
+|ID : 1522365| COMPANY: lesznowola| NAME : Prawa jazdy|
+------------------SPZAWIERCIE-------------------------
+|ID : 38349| COMPANY: spzawiercie| NAME : Rejestracja pojazdów|
+|ID : 38348| COMPANY: spzawiercie| NAME : Dowód rejestracyjny|
+|ID : 38347| COMPANY: spzawiercie| NAME : Profil Kandydata na Kierowcę / Profil Kierowcy Zawodowego|
+|ID : 38353| COMPANY: spzawiercie| NAME : Wydanie, wymiana, wtórnik, zwrot zatrzymanego prawa jazdy i inne|
+|ID : 38362| COMPANY: spzawiercie| NAME : Zbycie/nabycie/wyrejestrowanie pojazdu|
+|ID : 3062273| COMPANY: spzawiercie| NAME : GAZ/HAK/TAXI/L/VAT/EURO i inne|
+|ID : 3192977| COMPANY: spzawiercie| NAME : Licencje / Zezwolenia / Usuwanie pojazdów|
+|ID : 3192978| COMPANY: spzawiercie| NAME : Instruktorzy / Ośrodki Szkolenia Kierowców|
+|ID : 3192979| COMPANY: spzawiercie| NAME : Diagności / Stacje Kontroli Pojazdów|
+------------------PUW_RZESZOW2-------------------------
+|ID : 8414| COMPANY: puw_rzeszow2| NAME : 1. Odbiór paszportów|
+|ID : 8419| COMPANY: puw_rzeszow2| NAME : 2. Składanie wniosków o zezwolenie na pobyt czasowy z powodu wykonywania pracy|
+|ID : 8420| COMPANY: puw_rzeszow2| NAME : 3. Składanie wniosków o zezwolenie na pobyt czasowy (z innych powodów niż praca) ; na pobyt stały; na pobyt rezydenta długoterminowego UE|
+|ID : 3062276| COMPANY: puw_rzeszow2| NAME : 6. Złożenie wniosku przez ob. UE i ZK (beneficjentów umowy wystąpienia) oraz członków ich rodzin o zalegalizowanie pobytu oraz wymianę dokumentu; złożenie wniosku o: wymianę/wydanie karty pobytu lub innego dokumentu,  przedłużenie wizy; zaproszenie|
+|ID : 3062274| COMPANY: puw_rzeszow2| NAME : 4. Składanie wniosków o obywatelstwo polskie|
+|ID : 3062275| COMPANY: puw_rzeszow2| NAME : 5. Odbiory: kart pobytu i innych dokumentów dla cudzoziemców, dokumentów dla ob. UE i ZK , zaproszeń|
+|ID : 3172998| COMPANY: puw_rzeszow2| NAME : 7. Karta Polaka (przyznanie, przedłużenie ważności, wydanie duplikatu, zmiana danych posiadacza)|
+------------------UJ-------------------------
+|ID : 1223437| COMPANY: uj| NAME : Rekrutacja – obsługa w języku polskim / Admissions – Polish |
+|ID : 1223458| COMPANY: uj| NAME : Rekrutacja – obsługa w języku angielskim / Admissions - English|
+|ID : 1223457| COMPANY: uj| NAME : Rekrutacja – obsługa w języku rosyjskim / Admissions - Russian|
+|ID : 1223456| COMPANY: uj| NAME : Rekrutacja – obsługa w języku ukraińskim / Admissions - Ukrainian|
+|ID : 1223455| COMPANY: uj| NAME : Obsługa studentów zagranicznych - język polski|
+|ID : 1223454| COMPANY: uj| NAME : Obsługa studentów zagranicznych - język angielski|
+|ID : 1223453| COMPANY: uj| NAME : Obsługa studentów zagranicznych - język rosyjski|
+|ID : 1223452| COMPANY: uj| NAME : Obsługa studentów zagranicznych - język ukraiński|
+|ID : 1223450| COMPANY: uj| NAME : Wyjazdy studentów UJ do uczelni zagranicznych / ERASMUS+ Outgoing mobilities|
+|ID : 1223449| COMPANY: uj| NAME : Przyjazdy studentów z uczelni zagranicznych na UJ / ERASMUS+ Incoming mobilities|
+|ID : 1223448| COMPANY: uj| NAME : Wyjazdy studentów UJ do uczelni partnerskich / MOST Outgoing mobilities|
+|ID : 1223447| COMPANY: uj| NAME : Przyjazdy studentów z uczelni partnerskich na UJ / MOST Incoming mobilities|
+|ID : 1223446| COMPANY: uj| NAME : Wyjazdy studentów UJ do uczelni zagranicznych / Outgoing mobilities|
+|ID : 1223445| COMPANY: uj| NAME : Przyjazdy studentów uczelni zagranicznych na UJ / Incoming mobilities|
+|ID : 1223444| COMPANY: uj| NAME : Stypendia: Wydział Historyczny|
+|ID : 1223443| COMPANY: uj| NAME : Stypendia: Wydział Filologiczny; Instytut Studiów Informacyjnych|
+|ID : 1223442| COMPANY: uj| NAME : Stypendia - Wydział Prawa i Administracji|
+|ID : 1223441| COMPANY: uj| NAME : Stypendia: Wydział Polonistyki|
+|ID : 1223440| COMPANY: uj| NAME : Stypendia - Wydział Filozoficzny|
+|ID : 1223439| COMPANY: uj| NAME : Stypendia: Wydział Studiów Międzynarodowych i Politycznych; Instytut Kultury|
+|ID : 1223438| COMPANY: uj| NAME : Stypendia: Instytut Psychologii Stosowanej; Instytut Przedsiębiorczości;  Instytut Spraw Publicznych|
+|ID : 3063490| COMPANY: uj| NAME : Stypendia: Instytut Sztuk Audiowizualnych; Instytut Ekonomii, Finansów i Zarządzania; Instytut Dziennikarstwa, Mediów i Komunikacji Społecznej|
+|ID : 1223459| COMPANY: uj| NAME : Domy studenckie i Dom Doktoranta|
+------------------POKPT-------------------------
+|ID : 3172882| COMPANY: pokpt| NAME : Przyjmowanie wniosków paszportowych|
+|ID : 3172883| COMPANY: pokpt| NAME : Wydawanie paszportów|
+------------------SPZGIERZ-------------------------
+|ID : 3062176| COMPANY: spzgierz| NAME : Rejestracja i przerejestrowanie pojazdów (nowy / z zagranicy / z kraju).|
+|ID : 3062177| COMPANY: spzgierz| NAME :  Inne sprawy - adnotacje: HAK,GAZ,VAT,CIT,PIT,TAXI,BAGAŻNIK, brak miejsca na badania tech., zgłoszenie zbycia/nabycia, wyrejestrowanie, czasowe wycofanie z ruchu, wtórniki (dowodu rej., karty poj., nalepki, tablicy).|
+|ID : 3062180| COMPANY: spzgierz| NAME : Prawa Jazdy - profil kierowcy (PKK, PKZ, KKK), odbiór/wymiana, zezwolenia na pojazdy uprzywilejowane|
+|ID : 3062181| COMPANY: spzgierz| NAME : Odbiór dowodu rejestracyjnego|
+------------------BB2-------------------------
+|ID : 135| COMPANY: bb2| NAME : POJAZDY|
+|ID : 3068192| COMPANY: bb2| NAME : PRAWO JAZDY|
+------------------SPMIKOLOW-------------------------
+|ID : 6726| COMPANY: spmikolow| NAME : Rejestracja pojazdu - pojedynczego|
+|ID : 6725| COMPANY: spmikolow| NAME : Rejestracja pojazdu - dwóch i więcej pojazdów|
+|ID : 6724| COMPANY: spmikolow| NAME : Inne czynności rejestracyjne - odbiór dokumentów|
+|ID : 6723| COMPANY: spmikolow| NAME : Prawa jazdy|
+|ID : 6722| COMPANY: spmikolow| NAME : Transport|
+|ID : 6721| COMPANY: spmikolow| NAME : Wydział Geodezji - Złożenie wniosku, Informacja, Odbiór dokumentów|
+------------------SPPRZASNYSZ-------------------------
+|ID : 30413| COMPANY: spprzasnysz| NAME : Rejestracja pojazdów/ zmiany konstrukcyjne|
+|ID : 30415| COMPANY: spprzasnysz| NAME : Inne sprawy związane z rejestracją (wpisy adnotacji: GAZ, HAK, VAT, PIT, CIT, TAXI, współwłasność, wymiana dowodów rejestracyjnych, wtórniki dokumentów, wtórnik tablicy)|
+------------------SUW3-------------------------
+|ID : 3063506| COMPANY: suw3| NAME : Sprawy paszportowe|
+------------------SPMINSKMAZ-------------------------
+|ID : 6936| COMPANY: spminskmaz| NAME : Rejestracja i przerejestrowanie pojazdu|
+|ID : 6937| COMPANY: spminskmaz| NAME : Uprawnienia do kierowania pojazdami (Profil kandydata na kierowcę, krajowe prawo jazdy, międzynarodowe prawo jazdy, zezwolenie na pojazdy uprzywilejowane, wtórniki dokumentów)|
+|ID : 236| COMPANY: spminskmaz| NAME : Odbiór dowodu rejestracyjnego i inne sprawy dotyczące pojazdu (np. wymiana dowodu rejestracyjnego, zawiadomienie o nabyciu/zbyciu pojazdu, wyrejestrowanie pojazdu, wpisanie /wykreślenie adnotacji urzędowych, wtórniki dokumentów i oznaczeń, itp.) załatwisz w urzędzie po pobraniu biletu z biletomatu. Rezerwacja internetowa dla tych spraw jest niedostępna.|
+|ID : 3172804| COMPANY: spminskmaz| NAME : GEODEZJA:  Wypisy i wyrysy z ewidencji gruntów i budynków |
+------------------SPOTWOCK-------------------------
+|ID : 3193146| COMPANY: spotwock| NAME : Rejestracja pojazdów|
+------------------SPPODDEBICE-------------------------
+|ID : 1093346| COMPANY: sppoddebice| NAME : Rejestracja pojazdu|
+|ID : 1093347| COMPANY: sppoddebice| NAME : Odbiór dowodu rejestracyjnego - inne sprawy|
+|ID : 1093348| COMPANY: sppoddebice| NAME : Prawa jazdy|
+|ID : 1093349| COMPANY: sppoddebice| NAME : Transport drogowy - inne sprawy|
+------------------SPGRODZISKWLKP-------------------------
+|ID : 1| COMPANY: spgrodziskwlkp| NAME : Rejestracja|
+|ID : 2| COMPANY: spgrodziskwlkp| NAME : Odbiór dowodów rejestracyjnych|
+|ID : 3| COMPANY: spgrodziskwlkp| NAME : Prawo Jazdy|
+------------------SPNOWYSACZ-------------------------
+|ID : 3075145| COMPANY: spnowysacz| NAME : [KT] Rejestracja pojazdów i inne|
+|ID : 3075148| COMPANY: spnowysacz| NAME : [KT] Odbiór prawa jazdy|
+|ID : 3075149| COMPANY: spnowysacz| NAME : [KT] Wymiana prawa jazdy, wtórnik, PKK, kierowcy zawodowi|
+|ID : 3075146| COMPANY: spnowysacz| NAME : [KT] Odbiór dowodów rejestracyjnych i inne|
+------------------SPPSZCZYNA-------------------------
+|ID : 3062263| COMPANY: sppszczyna| NAME : I - Prawo jazdy(wszystkie sprawy łącznie z wydawaniem zezwolenia na kierowanie pojazdem uprzywilejowanym)|
+|ID : 3062264| COMPANY: sppszczyna| NAME : I - Rejestracja/Przerejestrowanie (wszystkie pojazdy)/Wpisanie lub skreślenie współwłaściciela|
+|ID : 3062265| COMPANY: sppszczyna| NAME : I - Odbiór dowodów rejestracyjnych|
+|ID : 3062266| COMPANY: sppszczyna| NAME : I- Inne sprawy- pojazdy  (dot.tylko Wydziału Komunikacji)|
+|ID : 3062325| COMPANY: sppszczyna| NAME : I - Profil Kandydata na Kierowcę (PKK) /odbiór Prawa Jazdy|
+|ID : 3062336| COMPANY: sppszczyna| NAME : I- Rejestracja (tylko pojazdy nowe niezarejestrowane) / Rejestracja (tylko pojazdy sprowadzone z zagranicy niezarejestrowane w Polsce)|
+------------------SPKOSCIAN-------------------------
+|ID : 2764342| COMPANY: spkoscian| NAME : Odbiór dowodów rej. oraz zgłoszenie zbycia pojazdu|
+|ID : 2764343| COMPANY: spkoscian| NAME : Rejestracja pojazdu|
+|ID : 2764344| COMPANY: spkoscian| NAME : Prawa Jazdy|
+|ID : 2764345| COMPANY: spkoscian| NAME : Transport, OSK, SKP|
+------------------SPSULEJOWEK-------------------------
+|ID : 3172784| COMPANY: spsulejowek| NAME : Odbiór dowodu rejestracyjnego i inne sprawy dotyczące pojazdu (np. wymiana dowodu rejestracyjnego, zawiadomienie o nabyciu/zbyciu pojazdu, wyrejestrowanie pojazdu, wpisanie /wykreślenie adnotacji urzędowych, wtórniki dokumentów i oznaczeń, itp.) załatwisz w urzędzie po pobraniu biletu z biletomatu. Rezerwacja internetowa dla tych spraw jest niedostępna.|
+|ID : 21633| COMPANY: spsulejowek| NAME : Rejestracja i przerejestrowanie pojazdu |
+|ID : 6939| COMPANY: spsulejowek| NAME : Uprawnienia do kierowania pojazdami (Profil kandydata na kierowcę, krajowe prawo jazdy, międzynarodowe prawo jazdy, zezwolenie na pojazdy uprzywilejowane, wtórniki dokumentów) załatwisz w urzędzie po pobraniu biletu z biletomatu. Rezerwacja internetowa dla tych spraw jest niedostępna.|
+------------------SPWEGROW-------------------------
+|ID : 3073288| COMPANY: spwegrow| NAME : Rejestracja, przerejestrowanie jednego pojazdu|
+|ID : 3073289| COMPANY: spwegrow| NAME : Odbiór dowodu rejestracyjnego, zgłoszenie zbycia, wpisanie adnotacji|
+------------------SPZAMOSC-------------------------
+|ID : 3063502| COMPANY: spzamosc| NAME : Rejestracja pojazdów|
+|ID : 3063503| COMPANY: spzamosc| NAME : Odbiór dowodów rejestracyjnych|
+|ID : 3063504| COMPANY: spzamosc| NAME : Inne sprawy związane z rejestracją|
+|ID : 3063505| COMPANY: spzamosc| NAME : Prawa jazdy / Wydanie profilu PKK|
+------------------SPSTRZELIN-------------------------
+|ID : 1522389| COMPANY: spstrzelin| NAME : Rejestracja pojazdu/Przerejestrowanie pojazdu|
+|ID : 1522390| COMPANY: spstrzelin| NAME : Odbiór dowodu rejestracyjnego,zgłoszenie zbycia/nabycia pojazdu ,wyrejestrowanie pojazdu,wymiana dowodu rejestracyjnego(brak miejsca w dowodzie),naniesienie adnotacji  w dowodzie rej.np. hak,gaz|
+|ID : 1522391| COMPANY: spstrzelin| NAME : Prawa jazdy/PKK/PKZ|
+------------------SPBRZOZOW-------------------------
+|ID : 3063483| COMPANY: spbrzozow| NAME : Rejestracja / przerejestrowanie pojazdu / wyrejestrowanie pojazdu|
+|ID : 3063486| COMPANY: spbrzozow| NAME : Odbiór stałego dowodu rejestracyjnego|
+|ID : 3063487| COMPANY: spbrzozow| NAME : Zgłoszenie zbycia pojazdu (sprzedaż)|
+|ID : 3063488| COMPANY: spbrzozow| NAME : Wydanie zaświadczenia potwierdzającego dane pojazdu (zgubienie dowodu rejestracyjnego)|
+------------------SPWYSZKOW-------------------------
+|ID : 69812| COMPANY: spwyszkow| NAME : Rejestracja/ Przerejestrowanie 1(jednego) pojazdu|
+|ID : 667392| COMPANY: spwyszkow| NAME : Wymiana dowodu rejestracyjnego (brak miejsc na wpis), wtórnik dr, kp, tablic, wycofanie czasowe pojazdu z ruchu/przywrócenie do ruchu|
+|ID : 667393| COMPANY: spwyszkow| NAME : Odbiór dowodu rejestracyjnego, wtórników, zgłoszenie zbycia, wyrejestrowanie, dopisanie współwłaściciela i inne (gaz, hak, vat, itp.)|
+|ID : 667394| COMPANY: spwyszkow| NAME : Prawo jazdy / PKK/PKZ/KKK|
+|ID : 667395| COMPANY: spwyszkow| NAME : Transport / Biuro podawcze|
+------------------NFZ-BIALYSTOK-------------------------
+|ID : 3074668| COMPANY: nfz-bialystok| NAME : EKUZ i sprawy związane z leczeniem międzynarodowym|
+|ID : 3074669| COMPANY: nfz-bialystok| NAME : Wyroby medyczne|
+|ID : 3074670| COMPANY: nfz-bialystok| NAME : Leczenie uzdrowiskowe|
+|ID : 3074671| COMPANY: nfz-bialystok| NAME : Ubezpieczenie|
+|ID : 3074672| COMPANY: nfz-bialystok| NAME : Informacja ogólna|
+|ID : 3074673| COMPANY: nfz-bialystok| NAME : Potwierdzenie profilu zaufanego|
+|ID : 3074674| COMPANY: nfz-bialystok| NAME : Obsługa Internetowego Konta Pacjenta|
+|ID : 3074675| COMPANY: nfz-bialystok| NAME : e-recepta, e-skierowanie|
+|ID : 3074676| COMPANY: nfz-bialystok| NAME : Stanowisko ds. profilaktyki i promocji zdrowia – kiosk profilaktyczny.|
+|ID : 3074677| COMPANY: nfz-bialystok| NAME : Obsługa Świadczeniodawców lekarze, farmaceuci, pielęgniarki, Profil Zaufany w POZ|
+|ID : 3075133| COMPANY: nfz-bialystok| NAME : Cicha godzina|
+------------------SPSTRZELCE-------------------------
+|ID : 279| COMPANY: SPSTRZELCE| NAME : Rejestracja/Przerejestrowanie|
+|ID : 280| COMPANY: SPSTRZELCE| NAME : Odbiór dowodów rejestracyjnych i kart pojazdu|
+|ID : 281| COMPANY: SPSTRZELCE| NAME : Inne sprawy z zakresu rejestracji (wymiana/wtórniki dokumentów, zbycia, wyrejestrowanie, czasowe wycofanie z ruchu, gaz, hak, współwłasność itd.)|
+|ID : 282| COMPANY: SPSTRZELCE| NAME : Prawo jazdy|
+------------------SPGORZOW-------------------------
+|ID : 6657| COMPANY: spgorzow| NAME : Rejestracja,tablice wywozowe,wycofanie z ruchu i przywrócenie,nabicie VIN,tabliczka znamionowa,nowe nr tablic|
+|ID : 6658| COMPANY: spgorzow| NAME : Odbiór,wymiana,wtórnik DR,wykreślenie/dopisanie współwł. lub zastawu,wydawanie wtórników tablic,PC/HAK,GAZ,TAXI,L/zbycie/nabycie,demontaż,zaświadczenia|
+|ID : 6660| COMPANY: spgorzow| NAME : Prawa jazdy (wszelkie sprawy związane z uprawnieniami do kierowania)|
+------------------SPILAWA-------------------------
+|ID : 3062288| COMPANY: spilawa| NAME : Rejestracja / Wyrejestrowanie pojazdu|
+|ID : 3062289| COMPANY: spilawa| NAME : Odbiory dokumentów, zbycie pojazdu, wpisy do dowodu rejestracyjnego|
+------------------SPOSTROW-------------------------
+|ID : 40836| COMPANY: spostrow| NAME : Rejestracja pojazdów|
+|ID : 40837| COMPANY: spostrow| NAME : Odbiór i wymiana dowodu rejestracyjnego oraz inne czynności|
+------------------SPSTASZOW-------------------------
+|ID : 3065613| COMPANY: spstaszow| NAME : Umówienie wizyty|
+------------------SPJG-------------------------
+|ID : 35046| COMPANY: spjg| NAME : Rejestracja pojazdów oraz wymiana dowodów rejestracyjnych|
+|ID : 35047| COMPANY: spjg| NAME : Ewidencja pojazdów - odbiór stałych dowodów rejestr., adnotacje (hak, gaz, itp), zgłoszenie zbycia pojazdu, wyrejestrowanie, wtórniki tablic rejestracyjnych|
+|ID : 35048| COMPANY: spjg| NAME : Prawa jazdy, Instruktorzy nauki jazdy, OSK|
+------------------SPOSTROWMAZOWIECKA-------------------------
+|ID : 1522492| COMPANY: spostrowmazowiecka| NAME : Rejestracja pojazdów, wymiana/wtórnik dowodu rejestracyjnego|
+|ID : 1522493| COMPANY: spostrowmazowiecka| NAME : Odbiór dowodów rejestracyjnych|
+|ID : 1522494| COMPANY: spostrowmazowiecka| NAME : Inne sprawy związane z rejestracją pojazdów|
+|ID : 1522495| COMPANY: spostrowmazowiecka| NAME : Prawa jazdy/PKK|
+|ID : 1522496| COMPANY: spostrowmazowiecka| NAME : Transport, zarządzanie ruchem, usuwanie i przechowywanie pojazdów|
+------------------UMPIEKARY-------------------------
+|ID : 181327| COMPANY: umpiekary| NAME : Rejestracja pojazdów|
+|ID : 183979| COMPANY: umpiekary| NAME : Odbiór dowodu rejestracyjnego|
+|ID : 183980| COMPANY: umpiekary| NAME : Inne sprawy z zakresu rejestracji pojazdów|
+|ID : 183981| COMPANY: umpiekary| NAME : Prawa jazdy|
+------------------SPPRUDNIK-------------------------
+|ID : 3172855| COMPANY: spprudnik| NAME : Wszelkie czynności związane z pojazdem|
+|ID : 3172857| COMPANY: spprudnik| NAME : Prawa Jazdy, Pojazdy uprzywilejowane|
+------------------NFZ-OLSZTYN-------------------------
+|ID : 11617| COMPANY: nfz-olsztyn| NAME : DORADCA KLIENTA|
+|ID : 11618| COMPANY: nfz-olsztyn| NAME : PROFIL ZAUFANY I INTERNETOWE KONTO PACJENTA|
+|ID : 11619| COMPANY: nfz-olsztyn| NAME : OBSŁUGA ŚWIADCZENIODAWCÓW|
+|ID : 11620| COMPANY: nfz-olsztyn| NAME : STANOWISKO DS. PROFILAKTYKI I PROMOCJI ZDROWIA – KIOSK PROFILAKTYCZNY|
+|ID : 3074834| COMPANY: nfz-olsztyn| NAME : CICHA GODZINA|
+------------------SPOSTROLEKA-------------------------
+|ID : 237| COMPANY: spostroleka| NAME : Rejestracja pojazdów, wyrejestrowanie, zmiany konstrukcyjne, wymiana/wtórnik dowodu rejestracyjnego|
+|ID : 239| COMPANY: spostroleka| NAME : Odbiór dowodów rejestracyjnych|
+|ID : 241| COMPANY: spostroleka| NAME : Wpisy w dowód rejestracyjny adnotacji: gaz, hak, Vat, Pit, Cit, zgłoszenie zbycia pojazdu inne sprawy związane z rejestracją pojazdów|
+|ID : 242| COMPANY: spostroleka| NAME : Wydawanie profilu kandydata na kierowcę ( PKK),  profilu kierowcy zawodowego (PKZ), KOD-95, karta kwalifikacji kierowcy, zezwolenie na kierowanie pojazdem uprzywilejowanym, przyjmowanie wniosków o wydanie:  prawa jazdy, wtórnik prawa jazdy, zmianę danych, zatrzymanie / zwrot prawa jazdy (przekroczenie prędkości 50+)|
+|ID : 6442| COMPANY: spostroleka| NAME : Odbiór prawa jazdy, zakazy, punkty karne, cofnięcie/przywrócenie uprawnień, międzynarodowe prawo jazdy|
+------------------SPJAWOR-------------------------
+|ID : 1529331| COMPANY: spjawor| NAME : Rejestracja|
+|ID : 1529332| COMPANY: spjawor| NAME : Zbycie pojazdu, odbiór dowodu, hak, gaz|
+|ID : 1529333| COMPANY: spjawor| NAME : Inne sprawy|
+|ID : 1529334| COMPANY: spjawor| NAME : Prawa jazdy|
+------------------UMSLUBICE-------------------------
+|ID : 3191195| COMPANY: umslubice| NAME : Ewidencja Ludności i Dowody Osobiste|
+------------------SPBRZESKO2-------------------------
+|ID : 3065681| COMPANY: spbrzesko2| NAME : Rejestracja pojazdu|
+|ID : 3065682| COMPANY: spbrzesko2| NAME : Pozostałe sprawy związane z rejestracją pojazdów|
+------------------WSB-------------------------
+|ID : 3172853| COMPANY: wsb| NAME : Biuro Obsługi Studenta|
+|ID : 3172867| COMPANY: wsb| NAME : Rekrutacja|
+------------------SPZABKOWICE-------------------------
+|ID : 3173133| COMPANY: spzabkowice| NAME : Rejestracja pojazdów|
+|ID : 3173134| COMPANY: spzabkowice| NAME : Krótkie czynności/inne/informacja|
+------------------SPWEJHEROWO-------------------------
+|ID : 6416| COMPANY: spwejherowo| NAME : Umówiona wizyta - rejestracja pojazdów|
+------------------RCKIKSOSNOWIEC-------------------------
+|ID : 3173117| COMPANY: rckiksosnowiec| NAME : Oddawanie krwi|
+------------------USCUMJGORA-------------------------
+|ID : 6711| COMPANY: uscumjgora| NAME : Rejestracja urodzenia|
+|ID : 6712| COMPANY: uscumjgora| NAME : Rejestracja zgonu|
+|ID : 6714| COMPANY: uscumjgora| NAME : Wydanie odpisu aktu: urodzenia, małżeństwa, zgonu, powrót do nazwiska, rozwód zagraniczny|
+|ID : 6713| COMPANY: uscumjgora| NAME : Zawarcie małżeństwa|
+|ID : 6715| COMPANY: uscumjgora| NAME : Wpisanie (transkrypcja) zagranicznego odpisu aktu stanu cywilnego|
+|ID : 6716| COMPANY: uscumjgora| NAME : Wydanie zaświadczenia (o stanie cywilnym, o zdolności prawnej, o wpisie w akcie)|
+|ID : 6717| COMPANY: uscumjgora| NAME : Prostowanie i uzupełnianie aktu stanu cywilnego|
+|ID : 6718| COMPANY: uscumjgora| NAME : Zmiana imienia i nazwiska|
+|ID : 6719| COMPANY: uscumjgora| NAME : Nadanie „Medali za długoletnie pożycie małżeńskie”|
+|ID : 1223436| COMPANY: uscumjgora| NAME : Uznanie ojcostwa|
+------------------LODZKI_UW-------------------------
+|ID : 52888| COMPANY: lodzki_uw| NAME : Wizyta w Oddziale ds. Koordynacji Świadczeń|
+------------------NFZ-KOSZALIN-------------------------
+|ID : 3075282| COMPANY: nfz-koszalin| NAME : Informacja|
+|ID : 3075283| COMPANY: nfz-koszalin| NAME : Doradca Pacjenta|
+|ID : 3075284| COMPANY: nfz-koszalin| NAME : Profil zaufany i internetowe konto pacjenta|
+|ID : 3075285| COMPANY: nfz-koszalin| NAME : Obsługa Świadczeniodawców|
+|ID : 3075286| COMPANY: nfz-koszalin| NAME : Profilaktyka i promocja zdrowia|
+|ID : 3172783| COMPANY: nfz-koszalin| NAME : Cicha godzina|
+|ID : 3172894| COMPANY: nfz-koszalin| NAME : EKUZ|
+------------------SPLWOWEKSLASKI-------------------------
+|ID : 1526608| COMPANY: splwowekslaski| NAME : Rejestracja pojazdu|
+|ID : 1526610| COMPANY: splwowekslaski| NAME : Prawa jazdy|
+------------------SPNDG-------------------------
+|ID : 3194064| COMPANY: spndg| NAME : Rejestracja|
+------------------SPKEDZIERZYN-------------------------
+|ID : 75643| COMPANY: spkedzierzyn| NAME : Rejestracja pojazdów|
+|ID : 75644| COMPANY: spkedzierzyn| NAME : Wydawanie dokumentów związanych z rejestracją pojazdów oraz wpisy w dowód rejestracyjny adnotacji: gaz, hak, Vat, Pit, Cit, zgłoszenie zbycia, nabycia pojazdu|
+|ID : 75645| COMPANY: spkedzierzyn| NAME : Prawo jazdy|
+------------------PUPLEGNICA-------------------------
+|ID : 3172720| COMPANY: puplegnica| NAME : Umawianie wizyty- rejestracja osób bezrobotnych i poszukujących pracy|
+|ID : 3172731| COMPANY: puplegnica| NAME : Umawianie wizyty -Doradca klienta - Pośrednik pracy -stanowisko 3 pokój 1|
+|ID : 3172729| COMPANY: puplegnica| NAME : Umawianie wizyty -Doradca klienta - Pośrednik pracy -stanowisko 4 pokój 2|
+|ID : 3172728| COMPANY: puplegnica| NAME : Umawianie wizyty- Doradca klienta - Pośrednik pracy - obsługa osób niepełnosprawnych pokój nr 2|
+|ID : 3172726| COMPANY: puplegnica| NAME : Umawianie wizyty - Doradca klienta - Pośrednik pracy - stanowisko 9 pokój 3|
+|ID : 3172725| COMPANY: puplegnica| NAME : Umawianie wizyty - Doradca klienta - Pośrednik pracy - stanowisko 11 pokój 3|
+|ID : 3172724| COMPANY: puplegnica| NAME : Umawianie wizyty - Doradca klienta - Pośrednik pracy - stanowisko 10 pokój 3|
+|ID : 3172723| COMPANY: puplegnica| NAME : Umawianie wizyty - Doradca klienta - Pośrednik pracy - stanowisko 12 pokój 3|
+|ID : 3172742| COMPANY: puplegnica| NAME : Umawianie wizyty - Doradca klienta - Pośrednik pracy - stanowisko 8 pokój 3|
+------------------DUW_STRZELIN-------------------------
+|ID : 3193243| COMPANY: duw_strzelin| NAME : Wniosek o wydanie paszportu|
+|ID : 3193244| COMPANY: duw_strzelin| NAME : Odbiór  paszportu|
+------------------PUPSIEDLCE-------------------------
+|ID : 1526605| COMPANY: pupsiedlce| NAME : Obsługa Klienta|
+|ID : 1526606| COMPANY: pupsiedlce| NAME : Punkt Informacyjny|
+------------------SPSWIECIE-------------------------
+|ID : 3065615| COMPANY: spswiecie| NAME : Rejestracja|
+------------------USCJASTRZEBIEZDROJ-------------------------
+|ID : 3075195| COMPANY: uscjastrzebiezdroj| NAME : Zgłoszenie noworodka/uznanie ojcostwa|
+|ID : 3075196| COMPANY: uscjastrzebiezdroj| NAME : Wydawanie odpisu|
+|ID : 3075198| COMPANY: uscjastrzebiezdroj| NAME : Zgłoszenie aktu z zagranicy|
+|ID : 3075199| COMPANY: uscjastrzebiezdroj| NAME : Sprostowanie i uzupełnienie aktu|
+|ID : 3075200| COMPANY: uscjastrzebiezdroj| NAME : Zawarcie małżeństwa|
+|ID : 3075201| COMPANY: uscjastrzebiezdroj| NAME : Zgłoszenie rozwodu z zagranicy|
+|ID : 3075202| COMPANY: uscjastrzebiezdroj| NAME : Jubileusze małżeńskie|
+|ID : 3075203| COMPANY: uscjastrzebiezdroj| NAME : Zmiana imienia i nazwiska|
+------------------SPSLUPSK-------------------------
+|ID : 3193189| COMPANY: spslupsk| NAME : Rejestracja pojazdu|
+|ID : 3193190| COMPANY: spslupsk| NAME : Odbiór dowodów rejestracyjnych i inne sprawy związane z pojazdem|
+|ID : 3193191| COMPANY: spslupsk| NAME : Prawo jazdy|
+------------------RCKIKCIESZYN-------------------------
+|ID : 3193136| COMPANY: rckikcieszyn| NAME : Oddawanie krwi|
+------------------SPMLAWA-------------------------
+|ID : 3062267| COMPANY: spmlawa| NAME : Rejestracja|
+------------------SPBARTOSZYCE-------------------------
+|ID : 3060929| COMPANY: spbartoszyce| NAME : Rejestracja pojazdów|
+|ID : 3060930| COMPANY: spbartoszyce| NAME : Odbiór dowodów rejestracyjnych, zgłoszenie zbycia/nabycia pojazdu|
+|ID : 3060932| COMPANY: spbartoszyce| NAME : Prawa jazdy|
+------------------UMJGORA-------------------------
+|ID : 1532925| COMPANY: umjgora| NAME : Rejestracja pojazdów|
+|ID : 1532926| COMPANY: umjgora| NAME : Odbiór stałych dowodów rejestracyjnych|
+|ID : 1532927| COMPANY: umjgora| NAME : Zgłoszenie kupna i sprzedaży pojazdu|
+|ID : 1532928| COMPANY: umjgora| NAME : Prawa Jazdy|
+|ID : 1532929| COMPANY: umjgora| NAME : Ewidencja Pojazdów|
+------------------UMPUSZCZYKOWO-------------------------
+|ID : 3075307| COMPANY: umpuszczykowo| NAME : Ewidencja Ludności (PESEL, dowody osobiste)|
+------------------UGSZTABIN-------------------------
+|ID : 3173389| COMPANY: ugsztabin| NAME : Rejestracja aktu zgonu, małżeństw, urodzeń|
+|ID : 3173411| COMPANY: ugsztabin| NAME : Przyjęcie pisemnego zapewnienia od osób mających zawrzeć małżeństwo|
+|ID : 3173412| COMPANY: ugsztabin| NAME : Wniosek o wydanie odpisów aktów stanu cywilnego AU, AM, AZ|
+|ID : 3173413| COMPANY: ugsztabin| NAME : Transkrypcja aktu urodzenie, małżeństwa, zgonu|
+|ID : 3173414| COMPANY: ugsztabin| NAME : Wydawanie zaświadczeń stwierdzających brak okoliczności wyłączających zawarcie małżeństwa|
+|ID : 3173415| COMPANY: ugsztabin| NAME : Przyjęcie oświadczenia małżonka rozwiedzionego|
+|ID : 3173416| COMPANY: ugsztabin| NAME : Wydawanie zaświadczeń stwierdzających, że obywatel polski posiada zdolność prawną do zawarcia związku małżeńskiego za granicą|
+|ID : 3173417| COMPANY: ugsztabin| NAME : Wydawanie poświadczeń zameldowania|
+|ID : 3173418| COMPANY: ugsztabin| NAME : Zameldowanie na pobyt stały, czasowy|
+|ID : 3173420| COMPANY: ugsztabin| NAME : Wymeldowanie z pobytu stałego, czasowego|
+|ID : 3173429| COMPANY: ugsztabin| NAME : Przyjmowanie zgłoszeń meldunkowych cudzoziemców|
+|ID : 3173421| COMPANY: ugsztabin| NAME : Przyjęcie wniosku o wydanie dowodu osobistego|
+|ID : 3173422| COMPANY: ugsztabin| NAME : Odbiór dowodu osobistego|
+|ID : 3173423| COMPANY: ugsztabin| NAME : Przyjęcie zgłoszenia o unieważnienie dowodu osobistego|
+|ID : 3173427| COMPANY: ugsztabin| NAME : Złożenie dokumentów do kancelarii ogólnej|
+|ID : 3173410| COMPANY: ugsztabin| NAME : Decyzje środowiskowe|
+|ID : 3173409| COMPANY: ugsztabin| NAME : Wnioski o ustalenie warunków zabudowy|
+|ID : 3173407| COMPANY: ugsztabin| NAME : Złożenie wniosku o wycinkę drzewa|
+|ID : 3173393| COMPANY: ugsztabin| NAME : Dowóz niepełnosprawnych dzieci|
+|ID : 3173397| COMPANY: ugsztabin| NAME : Wydanie zaświadczenia o wielkości gospodarstwa rolnego|
+|ID : 3173398| COMPANY: ugsztabin| NAME : Wniosek o zwrot podatku akcyzowego|
+|ID : 3173399| COMPANY: ugsztabin| NAME : Podatek transportowy|
+|ID : 3173400| COMPANY: ugsztabin| NAME : Podatek leśny|
+|ID : 3173401| COMPANY: ugsztabin| NAME : Podatek rolny|
+|ID : 3173403| COMPANY: ugsztabin| NAME : Złożenie, zmiana deklaracji|
+|ID : 3173405| COMPANY: ugsztabin| NAME : Opłata śmieciowa|
+|ID : 3173406| COMPANY: ugsztabin| NAME : Opieka nad bezdomnymi zwierzętami|
+|ID : 3173419| COMPANY: ugsztabin| NAME : Wpis, zmiana w CEiDG|
+|ID : 3173430| COMPANY: ugsztabin| NAME : Zezwolenia na alkohol|
+|ID : 3173919| COMPANY: ugsztabin| NAME : Niepełnosprawny|
