@@ -20,7 +20,7 @@ node run.js
 --------
 
 ```js
-const {start} = require("bezkolejki");
+const {start} = require("bezkolejki-auto-reservation");
 start()
 ```
 ## The script was originally written for captcha solutions on the ANTIGATE service
