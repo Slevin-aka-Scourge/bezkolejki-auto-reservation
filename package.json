@@ -1,5 +1,5 @@
 {
-  "name": "bezkolejki",
+  "name": "bezkolejki-auto-reservation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [
+    "bezkolejki-auto-reservation",
     "bezkolejki"
   ],
   "author": "Scourge",
