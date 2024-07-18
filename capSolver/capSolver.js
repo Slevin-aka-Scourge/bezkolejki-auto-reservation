@@ -125,7 +125,10 @@ class Solver {
       }
     }
   }
-  async H() {
+  async H(num) {
+    if(num>10){
+      throw new Error('CAPSOLVER API NOT WORK NOW');
+    }
     const taskId = await this.createTaskH();
     //console.log(taskId);
     if (taskId) {
@@ -134,7 +137,8 @@ class Solver {
       if (solution) {
         return solution.gRecaptchaResponse;
       } else if (!solution) {
-        const result = await this.H();
+        num++;
+        const result = await this.H(num);
         return result;
       }
     }
