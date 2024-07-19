@@ -1,7 +1,7 @@
 {
   "name": "bezkolejki-auto-reservation",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "automatic seat reservations on bezkolejki",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,8 +10,12 @@
     "bezkolejki-auto-reservation",
     "bezkolejki"
   ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Slevin-aka-Scourge/bezkolejki-auto-reservation.git"
+	},
   "author": "Scourge",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@antiadmin/anticaptchaofficial": "^1.0.47",
     "bytenode": "^1.5.6",
@@ -23,5 +27,8 @@
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "user-agents": "^1.1.103"
-  }
+  },
+  "engines": {
+		"node": ">=20.11.0"
+	}
 }
