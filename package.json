@@ -1,6 +1,6 @@
 {
   "name": "bezkolejki-auto-reservation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "automatic seat reservations on bezkolejki",
   "main": "index.js",
   "scripts": {
